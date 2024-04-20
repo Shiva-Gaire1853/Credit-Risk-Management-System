@@ -1,0 +1,7 @@
+
+*.csv
+include/
+Lib/
+Scripts/
+*.cfg
+*.xlsx
